@@ -1,0 +1,14 @@
+{
+    "name": "SharkPool",
+    "symbol": "sharkSOL",
+    "description": "SharkPool SPL Stake Pool token",
+    "image": "https://raw.githubusercontent.com/sharkslabs/validator/refs/heads/main/sharkpool.jpg",
+    "attributes": [],
+    "properties": {
+        "files": [{
+            "uri": "https://raw.githubusercontent.com/sharkslabs/validator/refs/heads/main/sharkpool.jpg",
+            "type": "image/jpg"
+        }],
+        "category": "image"
+    }
+}
